@@ -136,8 +136,8 @@ git commit -m "Added complete README"
 git push
 
 
-👤 Author
-Shoaib
-Computer Science and Engineer
-Green University of Bangladesh
-GitHub: github.com/asoaib121
+ 👤Author
+  Shoaib
+  Computer Science and Engineer
+  Green University of Bangladesh
+  GitHub: github.com/asoaib121
