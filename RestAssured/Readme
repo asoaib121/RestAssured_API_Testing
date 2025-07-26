@@ -1,0 +1,6 @@
+# Swagger URL ---> https://petstore.swagger.io/#
+
+# Create User(post) : https://petstore.swagger.io/#/user/createUsersWithList
+# Get User (Get) :https://petstore.swagger.io/#/user/{username}
+# Update User (put) : https://petstore.swagger.io/#/user/{username}
+# Delete user (Delete) : https://petstore.swagger.io/#/user/{username}
