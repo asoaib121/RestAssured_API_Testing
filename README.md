@@ -9,24 +9,41 @@ It helps automate testing of endpoints such as **Create**, **Read**, **Update**,
 ## 📁 Project Structure Overview
 PetstoreAutomationFramework/
 ├── Reports
+
 ├── logs/ # Logs generated during execution
+
 ├── testData/ # Excel file containing test data
+
 ├── src/
+
 │ └── test/
+
 │ └── java/
+
 │ ├── api/
+
 │ │ ├── endpoints/ # API route classes
+
 │ │ ├── payload/ # POJO classes for request bodies
+
 │ │ ├── report/ # ExtentReport configuration
+
 │ │ ├── test/ # Test classes
+
 │ │ └── utilities/ # Utilities (e.g., data providers, Excel reader)
+
 │
 │ └── resources/
+
 │ ├── log4j2.xml # Logging configuration
+
 │ └── routes.properties # API routes and URIs
+
 │
 ├── pom.xml # Maven build file
+
 ├── testng.xml # TestNG suite configuration
+
 └── README.md # Project documentation
 
 ---
